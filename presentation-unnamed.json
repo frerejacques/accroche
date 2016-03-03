@@ -1,0 +1,411 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 418,
+          "y": 121,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"'Hammersmith One', sans-serif\">?</font><br>",
+          "size": 403,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.youtube.com/watch?v=EYDP3nBh_E4",
+          "type": "Video",
+          "x": 51,
+          "y": 37,
+          "scale": {
+            "width": 922.2358961838943,
+            "height": 689.1487192007212
+          },
+          "shortSrc": "EYDP3nBh_E4",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180,
+      "markdown": ""
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 148,
+          "y": 249,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#ffffff\">AND HIS NAME IS</font>",
+          "size": 96,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 79,
+          "y": 461,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#ffffff\">Jack Nicholson (April 22, 1937)</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/qmH5lsP.jpg",
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 491,
+          "y": 26,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 69,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#000000\">Celebrity status</font>",
+          "selected": false,
+          "rotate": 0.11
+        },
+        {
+          "TextBox": {},
+          "x": 530,
+          "y": 260,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 21,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#000000\">He is known for playing a wide range of starring or<br><br>supporting roles, including satirical comedy, romance <br><br>and dark portrayals of excitable and psychopathic <br><br>characters.</font>",
+          "selected": false,
+          "skewY": -0.03,
+          "rotate": -0.52
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/Z6h71GN.jpg",
+      "x": 1020,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 46,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#bfbfbf\">Attribute</font>",
+          "selected": false,
+          "rotate": -0.1
+        },
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 312,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#969696\">In many of his films he <font color=\"#414141\"><font color=\"#b1b1b1\">p</font>layed the \"eternal</font><br><br>outsider, the sardonic <font color=\"#b1b1b1\">drifter\", an<font color=\"#808080\">d</font> <font color=\"#808080\">s</font>omeone</font> <br><br>who rebels against the social structure.</font>",
+          "selected": false,
+          "rotate": 0.32
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/0HPdkIS.jpg",
+      "x": 1300,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 171,
+          "y": 37,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#727272\">What is he like?</font>",
+          "selected": false,
+          "rotate": -0.08
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/M6SlKXQ.jpg",
+      "x": 1580,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 257,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"'Hammersmith One', sans-serif\" color=\"#84a6b8\">Hobbys and interests</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/YtSwdoz.jpg",
+      "x": 1860,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"'Hammersmith One', sans-serif\">What is his most significant advantages?</font>",
+          "selected": false,
+          "rotate": -0.04
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/jVsDEfE.jpg",
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 121,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"'Hammersmith One', sans-serif\">What has the person been doing <font color=\"#c4c4c4\"><font color=\"#4b4b4b\">r</font><font color=\"#585858\">ec</font><font color=\"#a8a8a8\">e</font>ntly</font><font color=\"#848484\">?</font></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/1bYSsgf.jpg",
+      "x": 2420,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 95,
+          "y": 462,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"'Hammersmith One', sans-serif\">What are the person's plan for futu<font color=\"#7b7b7b\">r</font><font color=\"#a4a4a4\">e</font><font color=\"#d1d1d1\">?</font></font>",
+          "selected": false,
+          "rotate": 0.02
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/BKHfNxF.jpg",
+      "x": 2700,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"'Hammersmith One', sans-serif\">How' d he like to be remem<font color=\"#4b4b4b\">b</font><font color=\"#636262\">e</font><font color=\"#767676\">r</font><font color=\"#9b9b9b\">e</font><font color=\"#b6b6b6\">d<font color=\"#d2d2d2\">?</font></font></font>",
+          "selected": false,
+          "rotate": -0.09
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/vmomykQ.jpg",
+      "x": 2980,
+      "y": 460
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "background": "img:http://i.imgur.com/0TkZFOa.jpg",
+      "x": 2700,
+      "y": 460
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 418,
+        "y": 121,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font face=\"'Hammersmith One', sans-serif\">?</font><br>",
+        "size": 403,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 180,
+    "y": 180
+  },
+  "fileName": "presentation-unnamed",
+  "surface": "bg-default",
+  "customStylesheet": "/*.example {\n\tborder: 4px groove orange;\n}*/",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1580,
+  "overviewY": 320
+}
