@@ -7,8 +7,12 @@
   font-weight: normal;
   font-style: normal; }
 
+<<<<<<< HEAD
  @import url(https://fonts.googleapis.com/css?family=Hammersmith+One);
 
+=======
+@import url(https://fonts.googleapis.com/css?family=Hammersmith+One);
+>>>>>>> 1049b46e984d394a03ebbc5a03217a4fd793bf95
 
 html, body {
   font-family: "Lato", sans-serif;
